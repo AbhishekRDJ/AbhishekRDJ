@@ -64,9 +64,10 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRDJ&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=AbhishekRDJ&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRDJ&show_icons=true&theme=radical" alt="GitHub Stats" width="350">
+  <img src="https://streak-stats.demolab.com/?user=AbhishekRDJ&theme=radical" alt="GitHub Streak" width="350">
 </p>
+
 
 <h2 align="center">📈 LeetCode Stats:</h2>
 <p align="center">
