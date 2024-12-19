@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
+</p> 
+
 
 <h1 align="center">Hello Fellow < Coders/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> </h1>
 
@@ -99,6 +100,7 @@
 <br>
 
 <h2 align="center">Thank You!!!!!</h2>
+<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
