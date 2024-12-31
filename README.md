@@ -27,6 +27,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhishekRDJ&color=brightgreen&style=flat-square" alt="visit count">
 </p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AbhishekRDJ&icon=0&color=0" alt="visit count">
+</p>
 
 <h2 align="center">🌐 Socials:</h2>
 <p align="center">
