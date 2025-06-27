@@ -63,19 +63,22 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
 </p>
-
-
-
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRDJ&show_icons=true&theme=radical" alt="GitHub Stats" width="350">
   <img src="https://streak-stats.demolab.com/?user=AbhishekRDJ&theme=radical" alt="GitHub Streak" width="350">
 </p>
 
-
 <h2 align="center">📈 LeetCode Stats:</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Abhishekidz207?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Analysis">
+</p>
+
+<h2 align="center">⏱️ Hackatime Stats:</h2>
+<p align="center">
+  <a href="https://hackatime.hackclub.com">
+    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=4661&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_green" alt="Hackatime Stats">
+  </a>
 </p>
 
 <h2 align="center">🛠️ Latest Projects:</h2>
