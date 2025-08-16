@@ -310,9 +310,9 @@
 <div align="center">
     <!-- Middle: Total Views -->
   <p>Total Views</p>
-  <a href="https://github.com/AbhishekRDJ">
-    <img src="https://readme-view-counter.onrender.com/api/counters/aff56315/badge?label=Total%20Views&color=0e75b6&style=for-the-badge" alt="Total Views Badge">
-  </a>
+  <a href="https://github.com/abhishekRDJ/">
+  <img src="https://readme-view-counter.onrender.com/api/counters/eeac7584/badge?label=Total%20Views&color=0e75b6&style=for-the-badge&cache_bust=1755330640721" alt="Total Views Badge">
+</a>
 
   <h2>Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/212284087-818a3f9c-a9ce-4601-a696-9924e6ef8a6d.gif" width="30px" alt="waving hand"></h2>
 </div>
