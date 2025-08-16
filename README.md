@@ -12,14 +12,21 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  
+  <!-- First: Profile Views -->
   <a href="https://github.com/AbhishekRDJ">
     <img src="https://komarev.com/ghpvc/?username=AbhishekRDJ&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Badge">
   </a>
+
+
+  <!-- Last: Followers -->
   <a href="https://github.com/AbhishekRDJ?tab=followers">
     <img src="https://img.shields.io/github/followers/AbhishekRDJ?label=Followers&style=for-the-badge" alt="Followers">
   </a>
+
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="75%">
@@ -301,5 +308,11 @@
 </div>
 
 <div align="center">
+    <!-- Middle: Total Views -->
+  <p>Total Views</p>
+  <a href="https://github.com/AbhishekRDJ">
+    <img src="https://readme-view-counter.onrender.com/api/counters/aff56315/badge?label=Total%20Views&color=0e75b6&style=for-the-badge" alt="Total Views Badge">
+  </a>
+
   <h2>Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/212284087-818a3f9c-a9ce-4601-a696-9924e6ef8a6d.gif" width="30px" alt="waving hand"></h2>
 </div>
